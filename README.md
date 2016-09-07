@@ -1,7 +1,5 @@
-# hello-world
-My first hello world repository
------
-Hi man!
+# MyStat
+My statistical data that I try to learn by progamming in python
 
-I want to edit this file.
-So do I.
+================================================================
+1. connect to vpn network in my place.
